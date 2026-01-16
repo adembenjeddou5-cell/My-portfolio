@@ -760,7 +760,7 @@ body.light-theme .navbar {
 .timeline-item::before {
     content: '';
     position: absolute;
-    left: -38px;
+    left: -42px;
     top: 8px;
     width: 16px;
     height: 16px;
