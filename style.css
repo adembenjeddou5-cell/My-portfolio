@@ -1956,7 +1956,7 @@ body.light-theme .newsletter-form input {
     }
     
     .timeline-item::before {
-        left: -28px;
+        margin-left: 6px;
     }
     
     .portfolio-filter {
